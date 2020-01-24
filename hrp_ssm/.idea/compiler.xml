@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="hrp_ssm" target="1.8" />
+      <module name="hrp_ssm_dao" target="1.8" />
+      <module name="hrp_ssm_domain" target="1.8" />
+      <module name="hrp_ssm_service" target="1.8" />
+      <module name="hrp_ssm_utils" target="1.8" />
+      <module name="hrp_ssm_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
