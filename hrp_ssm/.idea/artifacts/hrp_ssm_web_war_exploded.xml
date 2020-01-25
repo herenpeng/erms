@@ -49,13 +49,13 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-messaging:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.2.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:4.2.13.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-taglibs:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-acl:4.2.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.12.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.2.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.2.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-taglibs:4.2.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-acl:4.2.13.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.23.RELEASE" />
           <element id="library" level="project" name="Maven: name.remal.merged:jsr205-jsr305:javax_1.3.2-findbugs_3.0.2" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
         </element>
