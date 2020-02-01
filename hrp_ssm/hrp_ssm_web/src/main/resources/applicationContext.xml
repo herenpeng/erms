@@ -63,7 +63,7 @@
     </bean>
 
     <!-- 事务的通知 -->
-    <tx:advice id="txAdvice">
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
         <tx:attributes>
             <!-- 传播行为 -->
             <tx:method name="save*" propagation="REQUIRED" />
