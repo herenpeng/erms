@@ -27,7 +27,6 @@
     <mvc:resources location="/img/" mapping="/img/**" />
     <mvc:resources location="/plugins/" mapping="/plugins/**" />
 
-
     <!--
         支持AOP的注解支持，AOP底层使用代理技术
         JDK动态代理，要求必须要有接口
