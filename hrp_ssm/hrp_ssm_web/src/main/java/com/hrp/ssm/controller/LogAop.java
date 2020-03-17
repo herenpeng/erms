@@ -61,7 +61,7 @@ public class LogAop {
      */
     @After("execution(* com.hrp.ssm.controller.*.*(..))")
     public void doAfter(JoinPoint jp) throws Exception {
-        Long time = new Date().getTime() - visitTime.getTime();//获取访问的时长
+        Long time = System.currentTimeMillis() - visitTime.getTime();//获取访问的时长
         String url = "";
         //获取URL
         if(clazz != null && method != null && clazz != LogAop.class && clazz != SysLogController.class){
