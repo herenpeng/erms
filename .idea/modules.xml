@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/erms.iml" filepath="$PROJECT_DIR$/erms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erms-ssm-dao/erms-ssm-dao.iml" filepath="$PROJECT_DIR$/erms-ssm-dao/erms-ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erms-ssm-domain/erms-ssm-domain.iml" filepath="$PROJECT_DIR$/erms-ssm-domain/erms-ssm-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erms-ssm-service/erms-ssm-service.iml" filepath="$PROJECT_DIR$/erms-ssm-service/erms-ssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erms-ssm-utils/erms-ssm-utils.iml" filepath="$PROJECT_DIR$/erms-ssm-utils/erms-ssm-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erms-ssm-web/erms-ssm-web.iml" filepath="$PROJECT_DIR$/erms-ssm-web/erms-ssm-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="erms-ssm-web:war">
+    <output-path>$PROJECT_DIR$/erms-ssm-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>erms-ssm-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="erms-ssm-web.war">
+      <element id="artifact" artifact-name="erms-ssm-web:war exploded" />
+    </root>
+  </artifact>
+</component>

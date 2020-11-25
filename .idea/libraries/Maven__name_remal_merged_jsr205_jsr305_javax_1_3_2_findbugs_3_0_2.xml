@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: name.remal.merged:jsr205-jsr305:javax_1.3.2-findbugs_3.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Maven/repository/name/remal/merged/jsr205-jsr305/javax_1.3.2-findbugs_3.0.2/jsr205-jsr305-javax_1.3.2-findbugs_3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Maven/repository/name/remal/merged/jsr205-jsr305/javax_1.3.2-findbugs_3.0.2/jsr205-jsr305-javax_1.3.2-findbugs_3.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Maven/repository/name/remal/merged/jsr205-jsr305/javax_1.3.2-findbugs_3.0.2/jsr205-jsr305-javax_1.3.2-findbugs_3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
